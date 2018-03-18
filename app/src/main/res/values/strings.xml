@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AriqAdyavi_1202153376_Modul4</string>
+    <string-array name="namaMhs">
+        <item>Lorem Ipsum</item>
+        <item>is simply dummy</item>
+        <item>text of the printing</item>
+        <item>and typesetting industry</item>
+        <item>Lorem Ipsum</item>
+        <item>has been the</item>
+        <item>industry's standard </item>
+        <item>Muchlis Hadi Ning</item>
+        <item>dummy text</item>
+        <item>ever since</item>
+        <item>the 1500s</item>
+    </string-array>
+</resources>
